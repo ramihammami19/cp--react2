@@ -1,0 +1,58 @@
+ { "players" :    [
+    {
+      "name": "Neymar Jr.",
+      "team": "/image/hila.png",
+      "nationality": "/image/br.png",
+      "pac": 90,
+      "sho": 94,
+      "pas": 68,  
+      "def": 49,
+      "phy": 89,
+      "dri":80,
+      "pos":"lw",
+      "rat":93,
+      "imageURL": "/image/neymar.png"
+    },
+    {
+      "name": "Sergio Ramos",
+      "team": "/image/sv.png",
+      "nationality": "/image/span.png",
+      "pac": 83,
+      "sho": 72,
+      "pas": 78,  
+      "def": 92,
+      "phy": 88,
+      "dri":77,
+      "pos":"cp",
+      "rat": 91,
+      "imageURL": "/image/ra.png"
+    },
+    {
+      "name": "Erling Haaland",
+      "team": "/image/man.png",
+      "nationality": "/image/nr.png",
+      "pac": 98,
+      "sho": 80,
+      "pas": 89,  
+      "def": 80,
+      "phy": 80,
+      "dri":96,
+      "pos":"cf",
+      "rat": 91,
+      "imageURL": "/image/hala.webp"
+    },
+    {
+      "name": "Anice Badri",
+      "team": "/image/tar3.png",
+      "nationality": " /image/tu.png",
+      "pac": 98,
+      "sho": 90,
+      "pas": 89,  
+      "def": 70,
+      "phy": 70,
+      "dri":96,
+      "pos":"rw",
+      "rat":87,
+      "imageURL": "/image/anis.jpg"
+    }
+  ]}
